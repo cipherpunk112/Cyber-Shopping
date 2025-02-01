@@ -1,0 +1,17 @@
+-1|Item Name|-1|-1|Category
+17|siam|12|80|Books
+1|Raspberry Pi Kit|30|24|Electronics
+2|USB Hardware Token|40|10|Accessories
+3|saim|12|14|Books
+4|Kali Linux Pre-installed USB Drive|70|12| Software
+5|Wi-Fi Adapter|50|35|Networking
+6|Penetration Testing Tools (USB Drive)|75|11|Tools
+7|Portable Power Bank|70|20|Electronics
+8|The Web Application Hacker's Handbook|40|10|Books
+9| Hacking: The Art of Exploitation|45|13|Books
+10|CompTIA Security+ Study Guide|30|9|Books
+11|Wireless Keyboard|30|17|Peripherals
+12|Noise-Canceling Headphone|12|7|Electronics
+13|Multi-Port USB Hub|25|29|Accessories
+14|Network Cable Tester|40|7|Tools
+15|Cybersecurity T-Shirt|15|12| Apparel

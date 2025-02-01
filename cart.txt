@@ -1,0 +1,14 @@
+User:saim|Password:1234|Time:07:48:55
+User:saim|Password:1234|Time:07:59:55
+
+12|Noise-Canceling Headphone|12|3|Electronics
+13|Multi-Port USB Hub|25|2|Accessories
+15|Cybersecurity T-Shirt|15|2|Apparel
+14|Network Cable Tester|40|2|Tools
+User:saim|Password:1234|Time:22:35:55
+3|External SSD|100|3|Storage
+User:saim|Password:1234|Time:13:28:03
+3|USB Hardware Token|40|2|Accessories
+User:saim|Password:1234|Time:16:50:50
+4|External SSD|100|3|Storage
+User:saim|Password:1234|Time:16:52:12
